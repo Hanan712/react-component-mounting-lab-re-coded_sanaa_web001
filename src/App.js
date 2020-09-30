@@ -1,4 +1,4 @@
 
-  componentDidMount(){
-    this.handleAddTimer()
-  }
+componentDidMount() {
+    this.handleAddTimer();
+}
